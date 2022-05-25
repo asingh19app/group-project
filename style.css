@@ -26,9 +26,9 @@ main h2 {
 
 /* Add Student Styles Below */
 .jane-style {
-    color: hotpink;
-    background-color: black;
-    padding: 3px;
+    color: salmon;
+    background-color: blue(0, 0, 0, 0.021);
+    padding: 4px;
 }
 
 .code-ninja-style {
